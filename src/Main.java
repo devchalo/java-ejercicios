@@ -15,7 +15,7 @@ public class Main
 
 
         /*2. Pide el precio de un producto sin IVA y calcula su precio con IVA.
-        El IVA es del 21%. Formatea el resultado para que se muestre con dos decimales.
+        El IVA es del 21%. Formatea el resultado para q c muestre con dos decimales.
 
         Scanner sc = new Scanner(System.in);
         System.out.println("ingrese el precio del producto :");
